@@ -8,7 +8,7 @@ public class ConnectionGenius {
   public ConnectionGenius(InetAddress ipa) {
     this.ipa = ipa;
   }
-
+//
   public void fireUpGame() {
     downloadWebVersion();
     connectToWebService();
