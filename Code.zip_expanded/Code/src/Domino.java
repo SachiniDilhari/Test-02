@@ -13,7 +13,7 @@ public class Domino implements Comparable<Domino> {
     this.high = high;
     this.low = low;
   }
-  
+  //
   public void place(int hx, int hy, int lx, int ly) {
     this.hx = hx;
     this.hy = hy;
