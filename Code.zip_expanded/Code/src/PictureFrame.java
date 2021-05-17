@@ -17,7 +17,7 @@ public class PictureFrame {
         }
       }
     }
-
+//
     public void drawGridLines(Graphics g) {
       g.setColor(Color.LIGHT_GRAY);
       for (int are = 0; are <= 7; are++) {
