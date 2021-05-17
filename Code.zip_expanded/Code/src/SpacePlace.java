@@ -15,7 +15,7 @@ public class SpacePlace {
     this.theta = theta;
     this.phi = phi;
   }
-
+//
   public int getxOrg() {
     return xOrg;
   }
